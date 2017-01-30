@@ -29,7 +29,7 @@ Test project
 
 ```sh
 $ git clone https://github.com/DmitryIvanov92/weather-test-app
-$ cd rssApp
+$ cd weather-test-app
 $ npm i
 ```
 #### Запуск приложения (development mode)
