@@ -5,18 +5,16 @@
   "main": "''",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/DmitryIvanov92/weather-test-app"
   },
   "author": "Dmitry Ivanov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/DmitryIvanov92/weather-test-app/issues"
   },
   "dependencies": {
     "axios": "^0.15.3",
